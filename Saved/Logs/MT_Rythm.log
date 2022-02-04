@@ -908,3 +908,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.04-06.08.13:309][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.02.04-06.08.13:651][  1]LogAssetRegistry: Asset discovery search completed in 13.2988 seconds
 [2022.02.04-06.08.13:733][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000015 seconds (updated 0 objects)
+[2022.02.04-06.09.31:859][714]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.04-06.09.33:306][714]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.04-06.09.33:321][714]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.02.04-06.09.33:330][714]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.02.04-06.09.35:185][826]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2022.02.04-06.09.35:244][826]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.02.04-06.10.04:210][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.02.04-06.10.04:284][219]LogSavePackage: Moving '../../../../../../Users/rober/Documents/GitHub/MT_RythmGame/Saved/NewBlueprintC24A7BD14AF4E675FF56D4B616558AC2.tmp' to '../../../../../../Users/rober/Documents/GitHub/MT_RythmGame/Content/Blueprints/Music/Beginner1/NewBlueprint.uasset'
+[2022.02.04-06.10.04:388][219]AssetCheck: New page: Asset Save: NewBlueprint
+[2022.02.04-06.10.04:388][219]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Music/Beginner1/NewBlueprint.NewBlueprint
